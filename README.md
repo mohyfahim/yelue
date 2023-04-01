@@ -4,6 +4,7 @@
 ## Color Palettes
 
 - Yellow: ![#FAD02C](https://placehold.co/15x15/FAD02C/FAD02C.png) `#FAD02C`
+- Dark Yellow ![#d1a600](https://placehold.co/15x15/d1a600/d1a600.png) `#d1a600` 
 - Dark Blue1: ![#333652](https://placehold.co/15x15/333652/333652.png) `#333652`
 - Dark Blue2: ![#050a30](https://placehold.co/15x15/050a30/050a30.png) `#050a30`
 - Pewter: ![#e9eaec](https://placehold.co/15x15/e9eaec/e9eaec.png) `#e9eaec`  

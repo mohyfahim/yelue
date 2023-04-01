@@ -15,6 +15,11 @@
         "label": "yelue",
         "uiTheme": "vs-dark",
         "path": "./themes/yelue-color-theme.json"
+      },
+      {
+        "label": "yelue light",
+        "uiTheme": "vs-light",
+        "path": "./themes/yelue-light-color-theme.json"
       }
     ]
   }
